@@ -1,4 +1,4 @@
-# React Fast Refresh Sample. Maybe?
+# React Fast Refresh Sample. ~Maybe?~ Probably.
 
 How to run:
 
