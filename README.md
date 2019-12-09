@@ -1,3 +1,9 @@
+Don't use this. It doesn't work in all cases.
+
+Use something like this instead: https://github.com/pmmmwh/react-refresh-webpack-plugin
+
+---
+
 # React Fast Refresh Sample. ~Maybe?~ Probably.
 
 How to run:
